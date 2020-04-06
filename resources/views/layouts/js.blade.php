@@ -1,0 +1,23 @@
+<script src="{{ mix('js/app.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.min.js') }}"></script>
+<script src="{{ asset('ui/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.isotope.min.js') }}"></script>
+<script src="{{ asset('ui/js/easing.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.ui.totop.js') }}"></script>
+<script src="{{ asset('ui/js/selectnav.html') }}"></script>
+<script src="{{ asset('ui/js/ender.js') }}"></script>
+<script src="{{ asset('ui/js/owl.carousel.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.fitvids.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.plugin.js') }}"></script>
+<script src="{{ asset('ui/js/wow.min.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.magnific-popup.min.js') }}"></script>
+<script src="{{ asset('ui/js/tweecool.js') }}"></script>
+<script src="{{ asset('ui/js/instafeed.min.js') }}"></script>
+<script src="{{ asset('ui/js/jquery.stellar.js') }}"></script>
+<script src="{{ asset('ui/js/typed.js') }}"></script>
+<!-- theme custom and plugin settings -->
+<script src="{{ asset('ui/js/custom.js') }}"></script>
+<script src="{{ asset('ui/js/custom-tweecool.js') }}"></script>
+<script src="{{ asset('ui/js/custom-instafeed.js') }}"></script>
+<script src="https://js.paystack.co/v1/inline.js"></script>
+<script src="{{ asset('ui/js/script.js') }}"></script>
